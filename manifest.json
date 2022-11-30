@@ -1,11 +1,11 @@
 {
-    "name": "trade",
-    "short_name": "trade",
+    "name": "CommunityBox",
+    "short_name": "CommBox",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Community is currency",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
