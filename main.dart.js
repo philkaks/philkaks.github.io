@@ -100505,7 +100505,7 @@ case 1:return A.x(q,r)}})
 return A.y($async$m2,r)},
 I(a){var s,r,q,p,o,n,m=this,l=null,k="images/friendship.png",j=t.l,i=a.M(j).f.a
 if(a.M(j).f.a.a<600){j=i.a
-s=A.bi(A.Sy(k,l,l),230,j)
+s=A.bi(A.Sy(k,l,l),180,j)
 if(m.w)j=A.bi(A.CF(B.d8),50,50)
 else{r=A.f2(20)
 j=A.bv(l,A.eo(A.a([A.lz(B.i_,new A.kk("images/google_logo.png",l,l),l,l),A.aRs(B.WL,l,new A.aGo(m),l)],t.p),B.A,B.jg,B.u),B.k,l,l,new A.cd(B.i_,l,l,r,l,l,B.X),l,l,l,l,l,l,j*0.8)}r=t.p
