@@ -17,7 +17,7 @@ const RESOURCES = {
 "assets/images/friendship.png": "5af55f1269aed1a5dcb1c51e41e0208e",
 "assets/images/google_logo.png": "b75aecaf9e70a9b1760497e33bcd6db1",
 "assets/images/micro.png": "d1a4ed816c385bdd3446fd1055b3ed5f",
-"assets/NOTICES": "bd4cf4a268c3633ac3122a676a75704b",
+"assets/NOTICES": "d15194be9c4daf083991701c2fc5cabb",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_google_places/assets/google_black.png": "97f2acfb6e993a0c4134d9d04dff21e2",
 "assets/packages/flutter_google_places/assets/google_white.png": "40bc3ae5444eae0b9228d83bfd865158",
@@ -32,10 +32,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "864b8b27c0893c35c81485977aa9189b",
 "icons/Icon-maskable-192.png": "b95c38f505a9345f1ea63492c799df06",
 "icons/Icon-maskable-512.png": "864b8b27c0893c35c81485977aa9189b",
-"index.html": "90def31533391c1b5fd5f356fa06d55c",
-"/": "90def31533391c1b5fd5f356fa06d55c",
-"main.dart.js": "19df3fed624d9277a4df1840201c18cf",
-"manifest.json": "31d91c14ae5573279a1f56ae98378ef2",
+"index.html": "6e7ce55564fb1ca095c50701a2150745",
+"/": "6e7ce55564fb1ca095c50701a2150745",
+"main.dart.js": "14a79813c209d45ba1175b989edb0f89",
+"manifest.json": "cc6687be5fd917f8aee96d68330e7ea6",
 "version.json": "e8c358bd4e77c9390d5fc9a733ebc5a5"
 };
 
